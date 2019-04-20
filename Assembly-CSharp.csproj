@@ -63,7 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerScript.cs" />
-    <Compile Include="Assets\testmovement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/matth/Documents/Unity Projects/Baba is us/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
